@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EasyCodeSepverApp</string>
+    <string name="get_joke">Get joke</string>
+    <string name="no_connection">No connection</string>
+    <string name="service_unavailable">Service unavailable</string>
+    <string name="show_favorite_joke">show favorite joke</string>
+    <string name="no_cached_jokes">No Favorite Jokes</string>
+    <string name="generic_fail_message">Something went wrong</string>
+</resources>
